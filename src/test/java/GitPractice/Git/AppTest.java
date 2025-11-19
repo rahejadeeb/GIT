@@ -22,4 +22,13 @@ public class AppTest {
 	    System.out.println("hello from method two");
 	    
 	}
+	
+	@Test
+	public void methodThree() {
+
+	    System.out.println("hello from method three");
+	    
+	}
+	
+	
 }
