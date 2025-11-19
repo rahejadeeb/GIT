@@ -36,6 +36,13 @@ public class AppTest {
 	    System.out.println("hello from method four");
 	    
 	}
+	
+	@Test
+	public void methodFive() {
+
+	    System.out.println("hello from method five");
+	    
+	}
 
 
 	
