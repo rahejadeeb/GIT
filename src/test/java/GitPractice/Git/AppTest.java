@@ -44,6 +44,15 @@ public class AppTest {
 	    
 	}
 
+	@Test
+	public void methodSix() {
+
+	    System.out.println("hello from method six");
+	    
+	}
+
+	
+
 
 	
 	
