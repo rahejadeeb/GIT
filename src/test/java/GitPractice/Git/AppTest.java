@@ -1,0 +1,18 @@
+package GitPractice.Git;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import org.junit.jupiter.api.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest {
+
+	@Test
+	public void methodOne() {
+
+	    System.out.println("hello");
+	    
+	}
+}
